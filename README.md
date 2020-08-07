@@ -6,7 +6,7 @@
 
 ## How do you approach choosing a tool for classroom use? 
 * How do you create an accurate mental model of a tool ? 
-* [How to Design DH assignments](https://docs.google.com/presentation/d/1NfKpBmQ_zTgORmcaLemTEfF_obj16CVej2iebTTlgEc/edit)
+* [Link to most recent slides: How to Design DH assignments](https://docs.google.com/presentation/d/1NfKpBmQ_zTgORmcaLemTEfF_obj16CVej2iebTTlgEc/edit)
 
 #### Project Planning Models 
 
