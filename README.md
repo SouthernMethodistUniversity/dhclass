@@ -10,7 +10,7 @@
 
 #### Project Planning Models 
 
-* [Project Charter](https://stewartvarner.com/2014/05/project-charter/) 
+* [Project Charter](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/charters-handout.pdf) 
 * [MOU](https://rc.library.uta.edu/uta-ir/handle/10106/25646)
 * PMP: [Project Management Office (PMO) @SMU](https://www.smu.edu/OIT/Governance)
 
