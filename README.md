@@ -17,5 +17,5 @@
 ### Handouts
 * [DH Student Group Project Charter](https://github.com/SouthernMethodistUniversity/dhclass/blob/master/sections/DHStudentGroupProjectCharter.pdf)
 * [Slides for Digital Humanities in the Classroom](https://github.com/SouthernMethodistUniversity/dhclass/blob/master/sections/DigitalHumanitiesintheClassroom.pdf)
-* [Slides for Lesson Planning DH Tool sWorkshop](https://github.com/SouthernMethodistUniversity/dhclass/blob/master/sections/SlidesLessonPlanningDHToolsWorkshop.pdf)
+* [Slides for Lesson Planning DH Tools Workshop](https://github.com/SouthernMethodistUniversity/dhclass/blob/master/sections/SlidesLessonPlanningDHToolsWorkshop.pdf)
   
